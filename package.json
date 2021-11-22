@@ -1,0 +1,26 @@
+{
+  "name": "clean-code-clean-arch-branas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "tsc && jest dist/",
+    "tsc:init": "tsc --init"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcomol135/clean-code-clean-arch-branas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcomol135/clean-code-clean-arch-branas/issues"
+  },
+  "homepage": "https://github.com/marcomol135/clean-code-clean-arch-branas#readme",
+  "devDependencies": {
+    "@types/jest": "^27.0.3",
+    "jest": "^27.3.1"
+  }
+}
